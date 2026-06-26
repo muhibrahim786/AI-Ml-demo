@@ -1,3 +1,3 @@
-# AI-Ml-demo
-This is my first Git repository
+# AI/ML
+This is my  Git repository
 Author -Muhammad Ibrahim
